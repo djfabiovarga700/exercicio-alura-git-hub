@@ -1,16 +1,24 @@
-## Olá pessoal 👋
+<img align="right" width="150px" style="margin-top:-20px" src="https://github.com/user-attachments/assets/208b08a8-4f1a-427e-9c93-01f382892e12">
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-<! --
-**djfabiovarga700/exercicio-alura-git-hub** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+<div dsplay="inline-block">
 
-Aqui estão algumas idéias para você começar:
+ <h1 align="left">Fabio Varga</h1>
+ <a href="https://www.instagram.com/djfabiovarga/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+ 
+</div>
 
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
--->
+
+
+
+
+
+
+
